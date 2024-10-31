@@ -81,7 +81,7 @@ def calculate(expression):
 def main():
     print("Welcome to Kent's Calculator!")
     while True:
-        expression = input("Enter an equation (+, -, /, *, **): ")
+        expression = input("Enter an equation (+, -, /, *, **) or 'q' to quit: ")
         if expression == 'q':
             print("Thank you for using my calculator!")
             break
