@@ -21,7 +21,9 @@ Oddly enough I've never really considered web development as a career path, but 
 A fun fact about me is that I love musicals and movies!
 
 Favorite Musical is *The Heights*
+
 ![The Heights](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjB5enUydmxpaDJ1Y2s0cmNndGRkZmtpNmV3cnRiMHE1a2ZhOXlzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZAwRt8n54Ne2nBxbno/giphy.webp)
+
 Favorite Movie is *The Princess Bride*
 
 ![The Princess Bride](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZ1aGVidm5vZG80b2Zyc3BndWcxM3EzaGR6M3Qwcm81eWFlcXFvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9HZ1tyyIbPxFHG/giphy.webp)
