@@ -31,7 +31,9 @@ def shopping_cart():
         try:
             item_name, quantity = user_input.split(',')
             quantity = int(quantity)
-
+            if quantity < 0:
+                print("Quantity cannot be negative, please enter a positive number")
+                continue
             if item_name in items:
                 unit_price = items[item_name]
                 order.append((item_name, unit_price, quantity))
