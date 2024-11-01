@@ -43,7 +43,7 @@ def shopping_cart():
             print("Invalid format. Please enter in the format 'name,quantity'.")
 
 # Save to cart.txt and return total cost 
-total_amount = 0
+    total_amount = 0
     with open('cart.txt', 'w') as file:
         file.write("Name,Unit Price,Quantity,Total Price\n")
         for item_name, unit_price, quantity in order:
