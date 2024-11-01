@@ -16,4 +16,12 @@ I used it previously when I was certified in AWS as well.  I've used [ACloudGuru
 stopped taking cards from **Cash App** and **Apple Pay** which makes it difficult for me to find a way to pay for their service.
 Due to these "payment issues" I've switched completely to the afformentioned [Udemy](www.udemy.com) as well as [EDX](www.edx.org).  
 
-Oddly enough I've never really considered web development as a career path, but my current classes have forced me to reconsider.  I'm currently in the Missouri University Online course, **Digital Media Design**, which is focused on designing and creating media in many different formats.  Audio, video, and web design are all included and I'm slowly integrating them into my resume.  So far I've done a radio ad, created logo's, and created video projects.  My next goal in this class is to create a video resume hosted on a web page integrating what I've learned about github from this class. 😃  
+Oddly enough I've never really considered web development as a career path, but my current classes have forced me to reconsider.  I'm currently in the Missouri University Online course, **Digital Media Design**, which is focused on designing and creating media in many different formats.  Audio, video, and web design are all included and I'm slowly integrating them into my resume.  So far I've done a radio ad, created logo's, and created video projects.  My next goal in this class is to create a video resume hosted on a web page integrating what I've learned about github from this class. 😃 
+
+A fun fact about me is that I love musicals and movies!
+
+Favorite Musical is *The Heights*
+![The Heights](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjB5enUydmxpaDJ1Y2s0cmNndGRkZmtpNmV3cnRiMHE1a2ZhOXlzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZAwRt8n54Ne2nBxbno/giphy.webp)
+Favorite Movie is *The Princess Bride*
+
+![The Princess Bride](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZ1aGVidm5vZG80b2Zyc3BndWcxM3EzaGR6M3Qwcm81eWFlcXFvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9HZ1tyyIbPxFHG/giphy.webp)
